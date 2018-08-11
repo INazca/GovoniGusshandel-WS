@@ -1,0 +1,21 @@
+#slidesWrapper{
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+
+#slidesSpacer{}
+
+#slides{
+    float: right;
+}
+
+#picBarWrapper{
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+
+#picBarSpacer{}
+
+#picBar{
+    float: right;
+}
